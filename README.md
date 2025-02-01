@@ -36,7 +36,7 @@ A **fun and interactive** number guessing game where you have **10 chances** to 
 3. Open index.html in your browser.
 
 ## 🔥 Live Demo  
-👉 [Play the Game Now](#) _(Add your GitHub Pages link here if hosted)_
+👉 [Play the Game Now] (https://pragyaa3.github.io/Guess_the_number/)
 
 ## 💡 Future Improvements
 
