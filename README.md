@@ -1,8 +1,6 @@
 # 🎯 Number Guessing Game 🎲  
 
-A **fun and interactive** number guessing game where you have **10 chances** to guess a randomly generated number between **1 and 100**! Can you beat the game? 🚀  
-
-![Game Preview](https://via.placeholder.com/750x400?text=Number+Guessing+Game)  
+A **fun and interactive** number guessing game where you have **10 chances** to guess a randomly generated number between **1 and 100**! Can you beat the game? 🚀   
 
 ## ✨ Features  
 ✅ **Random Number Generation** – A new number is generated each game!  
